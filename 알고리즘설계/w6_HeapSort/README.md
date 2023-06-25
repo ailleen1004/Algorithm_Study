@@ -11,7 +11,7 @@ MaxHeap, MinHeap을 이용한 Heap Sort를 각 구현하시오
 1. 길이 𝑛 = 2^10, 2^12, 2^14인 Random array를 생성 (0~𝑛)사이 값, 중복 무관
 2. 두 가지 HeapSort를 이용하여 정렬
 3. 2에 소요된 시간을 측정하여 출력 및 분석
-
+<br/><br/>
 ## Result
 ### 과제 1
 - MaxHeap
