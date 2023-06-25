@@ -5,7 +5,7 @@
 ## Result
 Huffman code table:
 
- :00
+ :00
  
 a:11000
 
