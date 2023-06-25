@@ -8,7 +8,7 @@ KMP 알고리즘을 구현한 후 아래의 여러 텍스트에서 각 패턴이
 
 ### Ex 2:
 - Text: This class is an algorithm design class. Therefore, students will have time to learn about algorithms and implement each algorithm themselves.
-- Pattern: algorithm<br/>
+- Pattern: algorithm<br/><br/>
 
 ## Result
 ### Ex 1
