@@ -3,12 +3,12 @@
 ## Promblem
 n^3(Cubic complexity) 를 만족하는 3중 for 루프 곱 (2 차 행렬 a, b, c 곱셈)
 
-## Input
+### Input
 Cubic complexity 알고리즘의 경우 n=10, 50, 100, 150, 200 을 사용하여 결과 출력
 
-## Output
+### Output
 n^3(Cubic complexity) 소요 시간 = 1.232222 나노 sec, 마이크로 sec..)
-
+<br/><br/>
 ## Result
 ### n=10
 
