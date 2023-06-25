@@ -17,7 +17,8 @@ dp[row][col] = max(findmaxcheese(row - 1, col), findmaxcheese(row, col + 1))<br/
 경로:<br/>
 (8,0)->(7,0)->(6,0)->(6,1)->(5,1)->(4,1)->(4,2)->(4,3)->(3,3)->(3,4)->(2,4)->(1,4)->(1,5)->(0,5)->(0,6)->(0,7)->(0,8)
 <br/><br/>
-### Explanation
+
+## Explanation
 arr(미로)에서 치즈=1, 쥐덫=2, 나머지=0으로 표현<br/><br/>
 
 findmaxcheese() 함수: 쥐가 먹을 수 있는 최대 치즈 개수와 그때의 경로를 dp에 저장하는 함수
