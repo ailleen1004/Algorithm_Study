@@ -28,4 +28,10 @@ findmaxcheese() 함수: 쥐가 먹을 수 있는 최대 치즈 개수와 그때�
 
 main() 함수: findmaxcheese() 함수 실행 결과 즉, 최대로 먹을 수 있는 치즈 개수와 그때의 경로를 출력해주는 함수
 - findmaxcheese() 함수를 실행하여 return된 결과인 dp[row][col] 즉, 출구까지 왔을 때 결론적으로 저장된 치즈 개수를 maxcheese에 할당하여 출력한다.
-- 경로의 경우, dp를 바탕으로 탐색하여 입구부터 시작하여 max cheese가 저장된 경로를 따라 좌표를 출력한다.
+- 경로의 경우, dp를 바탕으로 탐색하여 입구부터 시작하여 max cheese가 저장된 경로를 따라 좌표를 출력한다.<br/><br/>
+
+![image](https://github.com/ailleen1004/Algorithm_Study/assets/38450827/2c40b835-cad2-45d7-bd1f-6df2886212c1)
+
+노트에 직접 출력된 경로를 따라 미로를 따라가본 결과, 5개의 치즈를 만나는 것을 확인하였다. <br/>
+dp의 결과도 다음과 같다. 치즈가 없는 자리는 위와 오른쪽 재귀 호출 중 max값만 갖고 오고, 치즈가 있는 자리는 max값에 1을 더하여 갖고 온다.
+
