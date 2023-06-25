@@ -8,13 +8,12 @@ Insertion Sort를 구현하는 함수 insertionSort
 2. insertionSort를 이용하여 정렬
 3. 2에 소요된 시간을 측정하여 출력
 4. 소요시간 2초 이상인 𝑛 사용
-
+<br/><br/>
 ## Result
 Runtime: 0.676853 seconds.
 
 정렬 완료
-
-<br/>
+<br/><br/>
 
 # 2. Shell Sort
 ## Problem
@@ -33,7 +32,7 @@ Shell Sort를 구현하는 함수 shellSort1, shellSort2, shellSort3
 2. shellSort를 이용하여 정렬
 3. 2에 소요된 시간을 측정하여 출력
 4. 𝑘 = 3∗𝑘+1 sequence 기준 2초 이상인 𝑛 사용
-
+<br/><br/>
 ## Result
 ### [N/(2^𝑘)]
 Runtime: 11.7834 seconds.
