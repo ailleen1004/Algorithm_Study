@@ -29,7 +29,7 @@ n^3(Cubic complexity) 소요 시간 = 1.232222 나노 sec, 마이크로 sec..)
 ### n=200
 
 ![array_n200](https://github.com/ailleen1004/Algorithm_Study/assets/38450827/6ff1b88b-acf5-415d-8869-0fb2b14d3839)
-<br/>
+<br/><br/>
 
 # 2. Fibo
 
