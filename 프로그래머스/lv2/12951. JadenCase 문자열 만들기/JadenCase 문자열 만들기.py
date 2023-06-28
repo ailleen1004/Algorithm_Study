@@ -8,4 +8,3 @@ def solution(s):
         s[i]=s[i].capitalize()
     answer=' '.join(s)
     return answer
-    return answer
