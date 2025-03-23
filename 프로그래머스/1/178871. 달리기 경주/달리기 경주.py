@@ -18,6 +18,5 @@ def solution(players, callings):
         players_dic_gp[c_grade] = past_player
         players_dic_gp[c_grade-1] = c
     
-    players_dic = dict(sorted(players_dic_pg.items(), key=lambda item: item[1]))
-    answer = list(players_dic.keys())
+    answer = list(players_dic_gp.values())
     return answer
